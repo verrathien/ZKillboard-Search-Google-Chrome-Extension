@@ -1,0 +1,10 @@
+{
+  "name": "ZKillboard Search Menu",
+  "description": "Shows ZKillboard search link when right click on selection",
+  "version": "0.1",
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["source.js"]
+  },
+  "manifest_version": 2
+}
